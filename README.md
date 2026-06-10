@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="assets/oracle_header.png" alt="Oracle Cognitive OS Header" width="800">
+<pre>
+   ___  ____    _    ____ _     _____ 
+  / _ \|  _ \  / \  / ___| |   | ____|
+ | | | | |_) |/ _ \| |   | |   |  _|  
+ | |_| |  _ &lt;/ ___ \ |___| |___| |___ 
+  \___/|_| \_\_/   \_\____|_____|_____|
+</pre>
   <h1>🧠 Oracle Cognitive OS Prompt</h1>
   <p><strong>Transforming LLMs from "Pleasant Assistants" into "Useful Thinkers"</strong></p>
   <p>
-    An enterprise-grade system prompt architecture designed to <b>convert your AI into a co-founder or startup mentor</b>. It overrides default LLM sycophancy, enforces epistemic honesty, and executes frontier-level strategic reasoning. 
-    Use this to <b>make Gemini Pro smarter</b>, effectively upgrading models to <b>convert Gemini Pro to Claude Opus level</b> reasoning capabilities.
+    <h1>CONVERT YOUR AI INTO A CO-FOUNDER OR STARTUP MENTOR.</h1>
+    <h2>MAKE GEMINI PRO SMARTER.</h2>
+    <h2>CONVERT GEMINI PRO TO CLAUDE OPUS LEVEL.</h2>
+  </p>
+  <p>
+    An enterprise-grade system prompt architecture designed to override default LLM sycophancy, enforce epistemic honesty, and execute frontier-level strategic reasoning through cognitive triage and adversarial hypothesis generation.
   </p>
 </div>
 
@@ -96,7 +106,7 @@ The model is forbidden from treating market actors as rational utility maximizer
 This architecture was not built in a day. It evolved through intense iteration, systematically breaking down LLM failure modes. 
 
 * `prompts/oracle_system_prompt.md`: The final masterpiece OS prompt.
-* `prompts/evolution/v1_pre_oracle_base.md`: An earlier iteration of the prompt before the deep adversarial and missing-info modules were surgically integrated. (See the `evolution/` folder to trace the prompt engineering process).
+* `prompts/evolution/`: Directory containing the history of the prompt iterations, tracing the engineering from the simplest version up to the final OS.
 
 ---
 
