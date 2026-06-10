@@ -1,8 +1,10 @@
 <div align="center">
+  <img src="assets/oracle_header.png" alt="Oracle Cognitive OS Header" width="800">
   <h1>🧠 Oracle Cognitive OS Prompt</h1>
   <p><strong>Transforming LLMs from "Pleasant Assistants" into "Useful Thinkers"</strong></p>
   <p>
-    An enterprise-grade system prompt architecture designed to override default LLM sycophancy, enforce epistemic honesty, and execute frontier-level strategic reasoning through cognitive triage and adversarial hypothesis generation.
+    An enterprise-grade system prompt architecture designed to <b>convert your AI into a co-founder or startup mentor</b>. It overrides default LLM sycophancy, enforces epistemic honesty, and executes frontier-level strategic reasoning. 
+    Use this to <b>make Gemini Pro smarter</b>, effectively upgrading models to <b>convert Gemini Pro to Claude Opus level</b> reasoning capabilities.
   </p>
 </div>
 
